@@ -1,0 +1,5 @@
+x = input("Your name: ")
+y = input("Your date of birth: ")
+z = input("Your address: ")
+a = input("Your personal goals: ")
+print("Name:", x,"\nDate of birth:", y,"\nAddress:", z,"\nPersonal goal:", a)
